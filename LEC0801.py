@@ -27,4 +27,4 @@ if __name__ == "__main__":
 if __name__ == "__main__":
     # ここに作成せよ
     dt_now = datetime.datetime.now()
-    print(datetime)
+    print(dt_now)
